@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gold
+comment1.params=x\ y
+comment1.target=Gold(float,\ float)
+comment2.params=l
+comment2.target=void\ activate(Level)
+comment3.params=r
+comment3.target=void\ displayInfo(Renderer)
+comment4.params=r
+comment4.target=void\ displayStats(Renderer)
+numComments=5

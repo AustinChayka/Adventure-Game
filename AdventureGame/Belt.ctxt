@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Belt
+comment1.params=x\ y\ r\ l
+comment1.target=Belt(float,\ float,\ int,\ int)
+comment2.params=l\ n
+comment2.target=void\ applyItem(Level,\ int)
+comment3.params=l
+comment3.target=void\ activate(Level)
+comment4.params=r
+comment4.target=void\ displayInfo(Renderer)
+numComments=5

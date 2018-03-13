@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=c\ l\ dt
+comment1.target=void\ update(Container,\ Level,\ float)
+numComments=2

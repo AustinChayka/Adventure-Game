@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImageTile
+comment1.params=path\ tileW\ tileH
+comment1.target=ImageTile(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getTileWidth()
+comment3.params=
+comment3.target=int\ getTileHeight()
+comment4.params=w
+comment4.target=void\ setTileWidth(int)
+comment5.params=h
+comment5.target=void\ setTileHeight(int)
+numComments=6

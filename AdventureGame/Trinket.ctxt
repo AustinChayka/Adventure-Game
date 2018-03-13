@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Trinket
+comment1.params=x\ y\ t
+comment1.target=Trinket(float,\ float,\ Trinket.Type)
+comment2.params=x\ y
+comment2.target=Trinket(float,\ float)
+comment3.params=l\ n
+comment3.target=void\ applyItem(Level,\ int)
+comment4.params=r
+comment4.target=void\ displayStats(Renderer)
+comment5.params=r
+comment5.target=void\ displayInfo(Renderer)
+comment6.params=l
+comment6.target=void\ activate(Level)
+numComments=7

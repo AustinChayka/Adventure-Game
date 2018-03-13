@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Level4
+comment0.text=\r\nThis\ is\ a\ platformer\ level\ \r\n\ @author\ Andrew\ Gamsaragan,\ Austin\ Chayka\r\n\ @version\ 3/4/18\r\n
+comment1.params=
+comment1.target=Level4()
+comment1.text=\r\n\ This\ is\ the\ constructor\ class\ for\ the\ Level\ \r\n\ AnnoyingLevel\ \r\n\ This\ loadLevel\ has\ you\ go\ into\ the\ folder\ ,\ the\ next\ level\ that\ is\ loaded\ after\ the\ level\r\n\ camera\ is\ what\ the\ camera\ will\ follow\ so\ set\ the\ state\ name\ of\r\n\ in\ this\ case\ the\ player\ so\ it\ follows\ the\ player\r\n\ leve.setLightBLock\ is\ the\ amount\ of\ light\ that\ is\ shown\r\n
+comment2.params=c
+comment2.target=void\ init(Container)
+comment2.text=\r\n\ This\ is\ the\ initializer\ which\ sets\ the\ ambient\ color\ which\ is\ the\ \r\n\ background\ color\r\n\ setShowing\ maks\ it\ show\r\n\ and\ showTitleText\ RIP\ is\ the\ name\ of\ the\ level\ that\ comes\ up\ when\ the\ level\r\n\ first\ loads\ look\ at\ the\ top\ of\ the\ sreen\r\n
+comment3.params=c\ sm\ dt
+comment3.target=void\ update(Container,\ StateManager,\ float)
+comment3.text=\r\n\ If\ the\ escape\ key\ is\ pressed\ the\ state\ will\ change\ \r\n\ to\ the\ menu\ state,\ \ container\ which\ is\ c\r\n\ if\ you\ are\ dead\ then\ it\ will\ remove\ the\ objects\r\n
+comment4.params=c\ r
+comment4.target=void\ render(Container,\ Renderer)
+comment4.text=\r\n\ r.drawImage\ draws\ the\ image\ with\ consturctor\ of\ object,int\ ,\ int\r\n\ .redner\ takes\ container\ c\ and\ renderer\ r\ \r\n
+comment5.params=
+comment5.target=void\ exit()
+comment5.text=\r\n\ this\ is\ the\ exit\ method\ that\ is\ overriden\ although\ it\ has\ no\ code\ in\ it\r\n\ because\ there\ is\ no\ need\ to\r\n
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Equipment
+comment1.params=l\ n
+comment1.target=void\ applyItem(Level,\ int)
+comment2.params=r
+comment2.target=void\ displayStats(Renderer)
+comment3.params=
+comment3.target=Equipment.Type\ getType()
+numComments=4

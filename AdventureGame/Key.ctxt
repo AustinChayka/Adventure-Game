@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=x\ y\ name
+comment1.target=Key(float,\ float,\ java.lang.String)
+comment2.params=r
+comment2.target=void\ displayStats(Renderer)
+comment3.params=r
+comment3.target=void\ displayInfo(Renderer)
+comment4.params=l
+comment4.target=void\ activate(Level)
+numComments=5

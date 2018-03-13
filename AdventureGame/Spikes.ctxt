@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Spikes
+comment1.params=x\ y\ d
+comment1.target=Spikes(float,\ float,\ Spikes.Direction)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+numComments=4

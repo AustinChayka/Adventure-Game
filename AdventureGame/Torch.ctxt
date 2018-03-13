@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Torch
+comment1.params=x\ y\ tagNum
+comment1.target=Torch(int,\ int,\ int)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+comment4.params=l
+comment4.target=void\ setLit(boolean)
+numComments=5

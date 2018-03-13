@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Image
+comment1.params=width\ height
+comment1.target=Image(int,\ int)
+comment10.params=b
+comment10.target=void\ setLightBlock(int)
+comment2.params=path
+comment2.target=Image(java.lang.String)
+comment3.params=x\ y\ value
+comment3.target=void\ setPixel(int,\ int,\ int)
+comment4.params=image\ offX\ offY
+comment4.target=void\ add(Image,\ int,\ int)
+comment5.params=image\ offX\ offY\ tileX\ tileY
+comment5.target=void\ addTile(ImageTile,\ int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=int[]\ getPixels()
+comment7.params=
+comment7.target=int\ getWidth()
+comment8.params=
+comment8.target=int\ getHeight()
+comment9.params=
+comment9.target=int\ getLightBlock()
+numComments=11

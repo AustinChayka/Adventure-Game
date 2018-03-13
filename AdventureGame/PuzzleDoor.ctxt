@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PuzzleDoor
+comment1.params=tX\ tY\ l\ name
+comment1.target=PuzzleDoor(int,\ int,\ Level,\ java.lang.String)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+comment4.params=b
+comment4.target=void\ setLocked(boolean)
+numComments=5

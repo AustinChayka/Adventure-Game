@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LockDoor
+comment1.params=tX\ tY\ l\ name
+comment1.target=LockDoor(int,\ int,\ Level,\ java.lang.String)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+numComments=4

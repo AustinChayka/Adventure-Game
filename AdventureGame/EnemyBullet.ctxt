@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemyBullet
+comment1.params=x\ y\ dir
+comment1.target=EnemyBullet(float,\ float,\ int)
+comment2.params=c\ l\ dt
+comment2.target=void\ update(Container,\ Level,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+comment4.params=f
+comment4.target=void\ changeGravity(float)
+comment5.params=n
+comment5.target=void\ changeBounces(int)
+numComments=6

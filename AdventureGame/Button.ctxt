@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=x\ y\ path\ tW\ tH\ name
+comment1.target=Button(int,\ int,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=c\ dt
+comment2.target=void\ update(Container,\ float)
+comment3.params=c\ r
+comment3.target=void\ render(Container,\ Renderer)
+comment4.params=
+comment4.target=boolean\ isPressed()
+comment5.params=
+comment5.target=boolean\ isDown()
+comment6.params=
+comment6.target=boolean\ isUp()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+numComments=8
